@@ -7,4 +7,5 @@
   - 20640 observations(rows)
   - 10 columns (variable
  
-![Gf](https://i.gifer.com/75ez.gif)
+<img align="center" alt="Coding" width="400" src="https://static.wixstatic.com/media/e943bd_92609634e26e492cae46723ad7eef8ba~mv2.gif">
+
