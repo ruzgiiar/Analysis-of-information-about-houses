@@ -15,7 +15,7 @@
 
 
 
-For more detailed explanation contact ' ruzgiarr@gmail.com '.
+For more detailed explanation contact 'ruzgiarr@gmail.com'.
 
 
 
