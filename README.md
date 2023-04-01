@@ -9,7 +9,7 @@
   - 20640 observations(rows)
   - 10 columns (variable)
 
-For more detailed explanation contact 'ruzgiarr@gmail.com'.
+Communication 'ruzgiarr@gmail.com'
 
 [My Repositories👀](https://github.com/ruzgiiar?tab=repositories)
 
